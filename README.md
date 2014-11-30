@@ -4,7 +4,7 @@ This project is intended to demonstrate the usage of the Bourbon Family of SASS 
 
 # Installation
 
-* Check out the repository: <code>git clone https://github.com/middleman/middleman-syntax.git</code>
+* Check out the repository: <code>git clone https://github.com/taidan19/bourbon_family_demo_project.git</code>
 * Make sure bundler is installed: <code>gem install bundler</code>
 * Change directories into the project's root folder and run <code>bundle install</code> to setup Middleman and its dependencies.
 * Run <code>bundle exec middleman</code> to start the Middleman test server.
