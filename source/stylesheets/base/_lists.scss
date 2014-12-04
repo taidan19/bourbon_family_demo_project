@@ -29,3 +29,8 @@ dl {
     margin: 0;
   }
 }
+
+/* Custom */
+.default-ol {
+  @extend %default-ol;
+}
